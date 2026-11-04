@@ -1,6 +1,6 @@
 ### Hi, I'm Abilio
 
-Computer Science student at Mackenzie (São Paulo) and software developer working on AI and LLM applications. From January to November 2026 I built AI agents at WithFunded that read Reddit communities and pick out potential customers.
+Computer Science student at Mackenzie (São Paulo), building AI agents and LLM applications. From January to November 2026 I built AI agents at WithFunded that read Reddit communities and pick out potential customers.
 
 I like projects where I can see the problem up close. The repositories below are small, tested and honest about their limits: each one has a test suite, CI and a "Limitations" section.
 
