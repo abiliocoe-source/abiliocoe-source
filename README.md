@@ -8,9 +8,9 @@ I dawdle in projects where I can see the problem up close. The repositories belo
 
 | Project | What it does | Stack |
 |---|---|---|
-| [ResolveAI](https://github.com/abiliocoe-source/resolveai) | Support assistant that only answers from cited policy text and hands risky cases to a person. Evaluated on 36 cases. | Python, scikit-learn, Streamlit |
-| [DeliveryOps AI](https://github.com/abiliocoe-source/deliveryops-ai) | Dashboard for delivery kitchens: late and cancel rates by category, with recommendations backed by the numbers. | Python, pandas, Plotly, Streamlit |
-| [DemandLab](https://github.com/abiliocoe-source/demandlab) | Daily demand forecasting on real bike-sharing data, measured against a simple baseline. | Python, scikit-learn, Streamlit |
+| [ResolveAI](https://github.com/abiliocoe-source/resolveai) · [live demo](https://resolveaii.streamlit.app/) | Support assistant that only answers from cited policy text and hands risky cases to a person. Evaluated on 36 cases. | Python, scikit-learn, Streamlit |
+| [DeliveryOps AI](https://github.com/abiliocoe-source/deliveryops-ai) · [live demo](https://deliveryops-ai.streamlit.app/) | Dashboard for delivery kitchens: late and cancel rates by category, with recommendations backed by the numbers. | Python, pandas, Plotly, Streamlit |
+| [DemandLab](https://github.com/abiliocoe-source/demandlab) · [live demo](https://demandlab.streamlit.app/) | Daily demand forecasting on real bike-sharing data, measured against a simple baseline. | Python, scikit-learn, Streamlit |
 | [PR Risk Radar](https://github.com/abiliocoe-source/pr-risk-radar) · [live demo](https://pr-risk-radar.streamlit.app/) | Explainable risk score for Git diffs, with suggested tests. | Python, Streamlit |
 
 **Languages:** Python, Java, C · **Tools:** pandas, scikit-learn, Streamlit, SQLite, Git, GitHub Actions, pytest
